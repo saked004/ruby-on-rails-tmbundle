@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Add docs guide terminal images (#8819)
