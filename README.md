@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Fix Yolo 8.0.206 scale bug (#7821)
