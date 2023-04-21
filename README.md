@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Fix cmake requirements for ARM64 (#8589)
