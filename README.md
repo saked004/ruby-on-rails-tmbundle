@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Update Discord and Contributing Guide URLs (#9270)
