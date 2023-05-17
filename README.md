@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
