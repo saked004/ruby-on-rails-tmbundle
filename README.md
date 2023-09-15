@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Update Docs language dropdown height (#6927)
