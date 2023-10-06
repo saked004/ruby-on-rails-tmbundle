@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
