@@ -1,1 +1,1 @@
-Add https://youtu.be/q7LwPoM7tSQ to guides/yolo-performance-metrics.md (#8114)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
