@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Add new YOLOv8 OBB model metrics (#7379)
