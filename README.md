@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Add docs guide terminal images (#8819)
