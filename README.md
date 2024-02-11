@@ -1,1 +1,1 @@
-Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
