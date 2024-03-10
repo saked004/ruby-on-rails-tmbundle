@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Add new YOLOv8 OBB model metrics (#7379)
