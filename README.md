@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Compare plt.get_backend() in lowercase (#8409)
