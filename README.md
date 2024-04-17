@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Add Neural Magic Docs integrations page (#7234)
