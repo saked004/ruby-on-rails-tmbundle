@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Fix xyxyxyxyn calculation in obb result (#8188)
