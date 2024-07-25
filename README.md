@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Model typehints Docker fix (#8306)
