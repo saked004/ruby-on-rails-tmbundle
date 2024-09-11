@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
