@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
